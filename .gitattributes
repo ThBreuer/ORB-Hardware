@@ -4,7 +4,7 @@
 # Explicitly declare text files you want to always be normalized and converted
 # to native line endings on checkout.
 *.md text eol=crlf
-*.kicad_prl text eol=cr
+*.kicad_prl text eol=lf
 
 # Declare files that will always have CRLF line endings on checkout.
 #* text eol=crlf
