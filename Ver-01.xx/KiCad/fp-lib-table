@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ORB")(type "KiCad")(uri "$(KIPRJMOD)/ORB.pretty")(options "")(descr ""))
+)
