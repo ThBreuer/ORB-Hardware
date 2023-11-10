@@ -5,6 +5,7 @@
 # to native line endings on checkout.
 *.md text eol=crlf
 *.kicad_prl text eol=lf
+*.kicad_* text eol=lf
 
 # Declare files that will always have CRLF line endings on checkout.
 #* text eol=crlf
