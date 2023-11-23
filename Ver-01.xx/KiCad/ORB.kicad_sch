@@ -151,6 +151,9 @@
     (path "/e1cef0ad-bd13-4310-a910-ae3cf38d2692/8bfec193-3b23-4a5c-9c6a-3c6524144744"
       (reference "#REF0105") (unit 1) (value "+3.3V") (footprint "ORB:")
     )
+    (path "/0e9426e3-5cf5-4c4c-b18f-9d38a5166b7f/5bd6f90b-ac26-440c-b650-099097d7da91"
+      (reference "#REF0106") (unit 1) (value "GND") (footprint "ORB:")
+    )
     (path "/e1cef0ad-bd13-4310-a910-ae3cf38d2692/201af4fb-9e4f-4e45-b90c-a897595cbf3e"
       (reference "#REF0130") (unit 1) (value "GND") (footprint "ORB:")
     )
@@ -294,6 +297,9 @@
     )
     (path "/edc8ee64-97e2-4b0b-858e-382f0db46693/03c91fb6-2b0f-4402-b358-b6de22d31528"
       (reference "C30") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
+    )
+    (path "/0e9426e3-5cf5-4c4c-b18f-9d38a5166b7f/0f0f9407-d6f2-45f4-b955-ab1a03432cca"
+      (reference "C31") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0805_2012Metric")
     )
     (path "/e1cef0ad-bd13-4310-a910-ae3cf38d2692/fca210bc-05f0-4def-9359-6402d96d486f"
       (reference "D1") (unit 1) (value "SK54") (footprint "Diode_SMD:D_2512_6332Metric")
@@ -459,9 +465,6 @@
     )
     (path "/e1cef0ad-bd13-4310-a910-ae3cf38d2692/cf533e4b-3a3c-4d52-8db9-5dec9546340f"
       (reference "R16") (unit 1) (value "330") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/0e9426e3-5cf5-4c4c-b18f-9d38a5166b7f/cd601ef5-86b4-4d72-8285-c45b34e6472d"
-      (reference "R17") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/e1cef0ad-bd13-4310-a910-ae3cf38d2692/099bc8c1-319a-4b34-a5dc-4983311888d0"
       (reference "R18") (unit 1) (value "10K") (footprint "Resistor_SMD:R_0603_1608Metric")
