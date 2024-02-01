@@ -1,12 +1,14 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "",
+    "active_layer_preset": "Front Assembly View",
     "auto_track_width": true,
+    "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
-    "net_color_mode": 1,
+    "net_color_mode": 2,
     "opacity": {
+      "images": 0.6,
       "pads": 0.46000000834465027,
       "tracks": 1.0,
       "vias": 1.0,
@@ -18,7 +20,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -61,7 +63,7 @@
       35,
       36
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "00290a0_00000000",
     "zone_display_mode": 0
   },
   "meta": {
