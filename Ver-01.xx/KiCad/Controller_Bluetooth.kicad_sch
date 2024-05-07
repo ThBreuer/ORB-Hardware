@@ -3422,7 +3422,7 @@
     (property "Value" "Crystal" (at 36.3474 25.8322 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm" (at 33.02 24.13 0)
+    (property "Footprint" "Crystal:Crystal_SMD_Abracon_ABM3-2Pin_5.0x3.2mm" (at 33.02 24.13 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 33.02 24.13 0)
